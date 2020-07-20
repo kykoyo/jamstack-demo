@@ -36,7 +36,7 @@
     "eslint-plugin-nuxt": ">=0.4.2",
     "eslint-plugin-prettier": "^3.1.2",
     "jest": "^24.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "netlify": "^4.0.5",
     "prettier": "^1.19.1",
     "ts-jest": "^25.0.0",
